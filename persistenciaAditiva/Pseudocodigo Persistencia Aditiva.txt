@@ -1,0 +1,10 @@
+﻿Crear las variables x, y, c
+Definimos las variables
+* x = numero input
+* y = resultado de la iteración / empieza como 0.
+* c = variable usada para cambiar x a y después de una nueva iteración.
+Crear un bucle do / while con la condición que el número/resultado sea mayor que nueve
+Dentro del do/while creamos un while que 
+* individualizar cada dígito presente en el número. (dividiendo x por 10)
+* Añadimos los números de cada dígito entre ellos y lo guardamos como y.
+* Verificamos que cumpla con la condición del while y usamos c para que el resultado (y) se convierta en la nueva x si el resultado no cumple con la condición.

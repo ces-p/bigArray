@@ -1,0 +1,12 @@
+/Users/cesarportillo/Desktop/Programacion/persistenciaAditiva/bin/Debug/netcoreapp3.1/persistenciaAditiva.deps.json
+/Users/cesarportillo/Desktop/Programacion/persistenciaAditiva/bin/Debug/netcoreapp3.1/persistenciaAditiva.runtimeconfig.json
+/Users/cesarportillo/Desktop/Programacion/persistenciaAditiva/bin/Debug/netcoreapp3.1/persistenciaAditiva.runtimeconfig.dev.json
+/Users/cesarportillo/Desktop/Programacion/persistenciaAditiva/bin/Debug/netcoreapp3.1/persistenciaAditiva.dll
+/Users/cesarportillo/Desktop/Programacion/persistenciaAditiva/bin/Debug/netcoreapp3.1/persistenciaAditiva.pdb
+/Users/cesarportillo/Desktop/Programacion/persistenciaAditiva/obj/Debug/netcoreapp3.1/persistenciaAditiva.csprojAssemblyReference.cache
+/Users/cesarportillo/Desktop/Programacion/persistenciaAditiva/obj/Debug/netcoreapp3.1/persistenciaAditiva.AssemblyInfoInputs.cache
+/Users/cesarportillo/Desktop/Programacion/persistenciaAditiva/obj/Debug/netcoreapp3.1/persistenciaAditiva.AssemblyInfo.cs
+/Users/cesarportillo/Desktop/Programacion/persistenciaAditiva/obj/Debug/netcoreapp3.1/persistenciaAditiva.csproj.CoreCompileInputs.cache
+/Users/cesarportillo/Desktop/Programacion/persistenciaAditiva/obj/Debug/netcoreapp3.1/persistenciaAditiva.dll
+/Users/cesarportillo/Desktop/Programacion/persistenciaAditiva/obj/Debug/netcoreapp3.1/persistenciaAditiva.pdb
+/Users/cesarportillo/Desktop/Programacion/persistenciaAditiva/obj/Debug/netcoreapp3.1/persistenciaAditiva.genruntimeconfig.cache
